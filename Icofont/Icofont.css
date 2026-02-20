@@ -11,9 +11,9 @@
   font-weight: normal;
   font-style: "Regular";
   src:
-    url("Icofonts/icofont.woff2") format("woff2"),
-    url("Icofonts/icofont.woff") format("woff"),
-    url("Icofonts/icofont.ttf") format("truetype");
+    url("/Icons-Blobs/Icofont/Icofonts/icofont.woff2") format("woff2"),
+    url("/Icons-Blobs/Icofont/Icofonts/icofont.woff") format("woff"),
+    url("/Icons-Blobs/Icofont/Icofonts/icofont.ttf") format("truetype");
 }
 
 [class^="icofont-"],
