@@ -3,7 +3,7 @@ An icon font made by [IcoFont](https://icofont.com/), modified by me to use in m
 
 # Usage
 
-* add the stylesheet to your html page before </head> with: `https://maplecoded.github.io/Icons-Blobs/Icofont/Icofont.css`
+* add the stylesheet to your html page before </head> with: `<link rel="stylesheet" href="https://maplecoded.github.io/Icons-Blobs/Icofont/Icofont.css"/>`
 * add an icon: `<i class="icofont-anchor"></i>`, substituting after - with the icon name.
 
 Check out the demo over here: **[CLICK ME](https://maplecoded.github.io/Icons-Blobs/Icofont/demo.html).**
